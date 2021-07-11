@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\Dll1\Dll1\dllmain.cpp(1135,53): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\Dll1\Dll1\dllmain.cpp(1150,18): warning C4477: 'sprintf_s' : format string '%i' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+D:\Dll1\Dll1\dllmain.cpp(1150,18): message : consider using '%zi' in the format string
+D:\Dll1\Dll1\dllmain.cpp(1172,18): warning C4477: 'sprintf_s' : format string '%i' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+D:\Dll1\Dll1\dllmain.cpp(1172,18): message : consider using '%zi' in the format string
+  Dll1.vcxproj -> D:\Dll1\x64\Debug\Dll1.dll
